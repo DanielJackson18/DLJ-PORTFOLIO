@@ -1,4 +1,3 @@
-# [Start Bootstrap - Freelancer](https://danieljackson18.github.io/DLJ-PORTFOLIO/)
 
 
 
